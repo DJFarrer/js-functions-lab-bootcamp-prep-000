@@ -1,4 +1,4 @@
 // write your code below!
 Function happyHolidays(string); {
-return "HappyHolidays"
+return "HappyHolidays!"
 }
