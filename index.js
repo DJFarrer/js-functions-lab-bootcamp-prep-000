@@ -1,3 +1,4 @@
 // write your code below!
-Function happyHolidays(string);
+Function happyHolidays(string); {
 
+}
