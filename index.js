@@ -2,6 +2,6 @@
 function happyHolidays(string) {
 return "Happy holidays!"
 } 
-function happyHolidaysto(Shareen) {
+function happyHolidaysTo(Shareen) {
   return `Happy holidays, Shareen!`
 }
