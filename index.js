@@ -8,3 +8,6 @@ function happyHolidaysTo(Shareen) {
 function happyHolidayTo(holiday, Shareen) {
   return "Happy Independence Day, you!"
 }
+function holidayCountdown( holiday, days) {
+  return
+}
