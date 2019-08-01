@@ -1,4 +1,4 @@
 // write your code below!
-Function happyHolidays(string); {
+function happyHolidays(string); {
 return "HappyHolidays!"
 }
